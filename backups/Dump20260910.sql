@@ -72,7 +72,7 @@ CREATE TABLE `tb_users` (
 
 LOCK TABLES `tb_users` WRITE;
 /*!40000 ALTER TABLE `tb_users` DISABLE KEYS */;
-INSERT INTO `tb_users` VALUES (2,'240603@utxicotepec.edu.mx','Jonathan I Leal Cruz','1a6f89f86833682a7e317b024a47a95a','2026-09-10 10:30:31',NULL,NULL,_binary ''),(3,'240451@utxicotepec.edu.mx','Oliver','7e26843d24a98c0b9df85297c46d829a','2026-09-10 10:34:14',NULL,NULL,_binary ''),(4,'fer@utxicotepec.edu.mx','Fernada','fbc4fef99cdd459c958f92ef36c9fe2b','2026-09-10 10:34:41',NULL,NULL,_binary ''),(5,'noc@utxicotepec.edu.mx','noc','5ff757a2a8e7b7cf273c05b7d67a6170','2026-09-10 11:28:08',NULL,NULL,_binary '');
+INSERT INTO `tb_users` VALUES (2,'240272@utxicotepec.edu.mx','Josue Oloarte','1a6f89f86833682a7e317b024a47a95a','2026-09-10 10:30:31',NULL,NULL,_binary ''),(3,'240451@utxicotepec.edu.mx','Oliver','7e26843d24a98c0b9df85297c46d829a','2026-09-10 10:34:14',NULL,NULL,_binary ''),(4,'fer@utxicotepec.edu.mx','Fernada','fbc4fef99cdd459c958f92ef36c9fe2b','2026-09-10 10:34:41',NULL,NULL,_binary ''),(5,'noc@utxicotepec.edu.mx','noc','5ff757a2a8e7b7cf273c05b7d67a6170','2026-09-10 11:28:08',NULL,NULL,_binary '');
 /*!40000 ALTER TABLE `tb_users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
