@@ -13,7 +13,7 @@ SELECT COUNT(*) AS total_registros FROM tb_users;
 SELECT COUNT(*) AS total_registros FROM tb_logs;
 
 /* 5. Consultar todas las operaciones realizadas en la base de datos */
-SELECT * FROM tb_logs;
+    SELECT * FROM tb_logs;
 
 /* 6. Verificar que los usuarios remotos hayan sido creados */
 SELECT User, Host FROM mysql.user WHERE Host = '%' AND account_locked = 'N';
@@ -27,3 +27,13 @@ FROM mysql.role_edges ORDER BY TO_USER, FROM_USER;
 
 /* 9. Verificar el total de procedimientos almacenados que existen en la base de datos */
 SHOW PROCEDURE STATUS WHERE Db = 'db_test_7b';
+
+/* 10. Verificación de Productos*/
+/* Contabilizar los productos */
+SELECT COUNT(*) FROM tb_products;
+
+/* 11. Visualizar todos los productos */
+SELECT * FROM tb_products;
+
+/* 12. Consulta para saber la trazabilidad de los productos */
+SELECT * FROM vw_trazabilidad_productos LIMIT 10;

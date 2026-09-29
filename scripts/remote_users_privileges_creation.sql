@@ -6,6 +6,7 @@ CREATE USER IF NOT EXISTS 'marco.ramirez'@'%' IDENTIFIED BY 'quwerty123';
 CREATE USER IF NOT EXISTS 'josu.oloarte'@'%' IDENTIFIED BY '240272';
 CREATE USER IF NOT EXISTS 'olovier.sanchez'@'%' IDENTIFIED BY '111111';
 CREATE USER IF NOT EXISTS 'jonathan.leal'@'%' IDENTIFIED BY '111111';
+ CREATE USER IF NOT EXISTS 'user.good'@'%' IDENTIFIED BY '240272';
 
 
 /* =========================================================
@@ -22,7 +23,7 @@ CREATE ROLE IF NOT EXISTS 'user_not_registered';
 
 
 /* =========================================================
-   PRIVILEGIOS DE ADMIN (control total de la BD)
+   PRIVILEGIOS DE ADMIN 
    ========================================================= */
 
 GRANT ALL PRIVILEGES
