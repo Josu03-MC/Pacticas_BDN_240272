@@ -7,7 +7,7 @@ CREATE USER IF NOT EXISTS 'josu.oloarte'@'%' IDENTIFIED BY '240272';
 CREATE USER IF NOT EXISTS 'olovier.sanchez'@'%' IDENTIFIED BY '111111';
 CREATE USER IF NOT EXISTS 'jonathan.leal'@'%' IDENTIFIED BY '111111';
  CREATE USER IF NOT EXISTS 'user.good'@'%' IDENTIFIED BY '240272';
-
+ CREATE USER IF NOT EXISTS 'vendedor1.good'@'%' IDENTIFIED BY 'vendedor1';
 
 /* =========================================================
    CREACIÓN DE ROLES
