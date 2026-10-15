@@ -3,7 +3,7 @@
 **Ingenieria en Tecnologias de la Informacion e Innovacion DigitAl**
 
 **Docente:** M.T.I. Marco A. Ramirez Hernandez  
-**Periodo:** Septiembre - Diciembre 2026
+**Periodo:** Septiembre - DiciembrE 2026
 
 ---
 
