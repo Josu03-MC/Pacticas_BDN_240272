@@ -1,5 +1,9 @@
 # Práctica 03: Modelo relacional, auditoría y documentación de `db_test_7b`
 
+## Enlace a la documentación interactiva
+
+[Abrir diagrama ER y diccionario de datos](diagrama/index.html)
+
 ## 1. Descripción General del Proyecto
 
 Esta práctica documenta y amplía una base de datos relacional para un sistema de comercio electrónico. El respaldo `respaldo7.sql` corresponde a MySQL 8.0.42 y contiene el esquema, datos, vistas y lógica de auditoría de `db_test_7b`.
