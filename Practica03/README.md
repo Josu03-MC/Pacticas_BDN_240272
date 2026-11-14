@@ -2,7 +2,7 @@
 
 ## Enlace a la documentación interactiva
 
-[https://josu03-mc.github.io/Pacticas_BDN_240272/Practica03/diagrama/index.html](https://josu03-mc.github.io/Pacticas_BDN_240272/Practica03/diagrama/index.html
+[https://josu03-mc.github.io/Pacticas_BDN_240272/Practica03/diagrama/index.html](https://josu03-mc.github.io/Pacticas_BDN_240272/Practica03/diagrama/index.html)
 
 ## 1. Descripción General del Proyecto
 
