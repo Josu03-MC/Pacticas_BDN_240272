@@ -1,6 +1,6 @@
 # ER diagram and data dictionary
 
-Static documentation generated from `../backups/respaldo6.sql`.
+Static documentation generated from `../backups/respaldo7.sql`.
 
 - `index.html`: landing page and navigation.
 - `erd/index.html`: interactive ER diagram with animation, relationships, and backup row counts.
